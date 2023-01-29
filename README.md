@@ -1,0 +1,1 @@
+Random walk generator - my first miniproject :)
